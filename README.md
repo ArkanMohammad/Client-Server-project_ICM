@@ -1,6 +1,6 @@
-# ICM (Braude Information Systems Change Management)
+# Client-Server-project_ICM(Braude Information Systems Change Management)
 <br />
-Building a computerized information system called ICM to manage and control the planning and implementation of changes to the college's information systems. <br />
+Client-Server project – Building a computerized information system called ICM to manage and control the planning and implementation of changes to the college's information systems. <br />
 The various systems that are maintained through ICM are: information stations for lecturer / employee / student, online study system (Moodle), the library system, computers in the classrooms, laboratories and computer farms, and the college website. <br />
 The goals of the ICM system are: <br />
 • Allow receipt of requests for changes from the stakeholder audience. <br />
