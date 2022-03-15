@@ -9,3 +9,6 @@ The goals of the ICM system are: <br />
 <br />
 Project contents: Java, JavaFx, MySQL, JDBC, OCSF. <br />
 Development Environment: Eclipse , MySQL Workbench, SceneBuilder. <br />
+<br />
+<img src="LOGO White.png" alt="drawing" width="300"/>
+
